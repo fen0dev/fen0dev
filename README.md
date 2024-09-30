@@ -11,10 +11,6 @@
   <img src="https://img.shields.io/github/stars/fen0dev?label=Stars&style=social" alt="Stars Badge"/>
 </p>
 
-<h2 align="center">
-  <img src="https://user-images.githubusercontent.com/your-github-id/cyber.png" alt="3D Illuminated Text" width="700"/>
-</h2>
-
 ---
 
 <p align="center">
