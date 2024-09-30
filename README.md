@@ -45,6 +45,8 @@ I believe the future of cybersecurity is smart, adaptive, and powered by **Artif
 <h2 align="center">⚡ Let's Collaborate ⚡</h2>
 I'm always looking to work on exciting projects that push the boundaries of **cybersecurity** and **AI**. Got a challenge? Count me in! 
 
+--
+
 <p align="center">
   <a href="mailto:gius.invest@gmail.com">
     <img src="https://img.shields.io/badge/Email-Me-green?style=for-the-badge&logo=gmail">
