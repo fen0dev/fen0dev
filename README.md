@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://user-images.githubusercontent.com/your-github-id/your-logo.png" color="lilla" alt="fen0dev" width="500"/>
+  <img src="https://user-images.githubusercontent.com/your-github-id/your-logo.png" color=white alt="fen0dev" width="500"/>
 </h1>
 
 <h3 align="center">
