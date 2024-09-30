@@ -14,7 +14,7 @@
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/anonymous.gif" width="200px">
+  <img src="https://giphy.com/gifs/looneytunesworldofmayhem-world-of-mayhem-looney-tunes-ltwom-RbDKaczqWovIugyJmW" width="200px">
 </p>
 
 <h2 align="center">👨‍💻 Who is <strong>fen0dev</strong>? 👨‍💻</h2>
