@@ -9,12 +9,7 @@
 
 ---
 
-  <div style="width:100%;height:0;padding-bottom:56%;position:relative;">
-    <iframe src="https://giphy.com/embed/RbDKaczqWovIugyJmW" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
-  </div>
-  <p>
-    <a href="https://giphy.com/gifs/looneytunesworldofmayhem-world-of-mayhem-looney-tunes-ltwom-RbDKaczqWovIugyJmW"></a>
-  </p>
+![Cybersecurity GIF](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWZzeTczd2JqeTcxaWN6M3pqdmdsMHMxcjNndXcwczhsd2Z4dHlpcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif)
 
 <h2 align="center">👨‍💻 Who is <strong>fen0dev</strong>? 👨‍💻</h2>
 
