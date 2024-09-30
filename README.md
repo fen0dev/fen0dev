@@ -1,10 +1,6 @@
-<h1 align="center">
-  <img src="https://user-images.githubusercontent.com/your-github-id/your-logo.png" alt="fen0dev" width="800"/>
-</h1>
-
-<h3 align="center">
+<h2 align="center">
   🚀 Software Developer, Cybersecurity Researcher, Hacker 🚀
-</h3>
+</h2>
 
 <p align="center">
   <img src="https://img.shields.io/github/followers/fen0dev?label=Followers&style=social" alt="Followers Badge"/>
@@ -13,14 +9,12 @@
 
 ---
 
-<p align="center">
   <div style="width:100%;height:0;padding-bottom:56%;position:relative;">
     <iframe src="https://giphy.com/embed/RbDKaczqWovIugyJmW" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
   </div>
   <p>
     <a href="https://giphy.com/gifs/looneytunesworldofmayhem-world-of-mayhem-looney-tunes-ltwom-RbDKaczqWovIugyJmW"></a>
   </p>
-</p>
 
 <h2 align="center">👨‍💻 Who is <strong>fen0dev</strong>? 👨‍💻</h2>
 
