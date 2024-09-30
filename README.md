@@ -1,9 +1,9 @@
 <h1 align="center">
-  <img src="https://user-images.githubusercontent.com/your-github-id/your-logo.png" color=white alt="fen0dev" width="500"/>
+  <img src="https://user-images.githubusercontent.com/your-github-id/your-logo.png" alt="fen0dev" width="800"/>
 </h1>
 
 <h3 align="center">
-  🚀 Welcome to the Future of Cybersecurity 🚀
+  🚀 Software Developer, Cybersecurity Researcher, Hacker 🚀
 </h3>
 
 <p align="center">
@@ -14,7 +14,7 @@
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/cyber-gif-your-choice.gif" width="200px">
+  <img src="https://media.giphy.com/media/anonymous.gif" width="200px">
 </p>
 
 <h2 align="center">👨‍💻 Who is <strong>fen0dev</strong>? 👨‍💻</h2>
