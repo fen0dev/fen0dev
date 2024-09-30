@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://user-images.githubusercontent.com/your-github-id/your-logo.png" alt="fen0dev" width="500"/>
+  <img src="https://user-images.githubusercontent.com/your-github-id/your-logo.png" color="lilla" alt="fen0dev" width="500"/>
 </h1>
 
 <h3 align="center">
@@ -31,7 +31,6 @@
   <img src="https://img.icons8.com/color/48/000000/html.png"/> &nbsp;&nbsp;
   <img src="https://img.icons8.com/color/48/000000/css.png"/> &nbsp;&nbsp;
   <img src="https://img.icons8.com/color/48/000000/javascript.png"/> &nbsp;&nbsp;
-  <img src="https://img.icons8.com/color/48/000000/appsec.png"/> &nbsp;&nbsp;
   <img src="https://img.icons8.com/color/48/000000/sql.png"/> &nbsp;&nbsp;
   <img src="https://img.icons8.com/color/48/000000/linux.png"/> &nbsp;&nbsp;
   <img src="https://img.icons8.com/color/48/000000/kali-linux.png"/> &nbsp;&nbsp;
@@ -41,7 +40,7 @@
 
 <h2 align="center">🚀 **Cool Tools I've Built & Enhanced** 🚀</h2>
 
-1. **Babylon** - Advanced XSS vulnerability scanner with ML-bypass functionality.
+1. **Babylon** - Advanced XSS vulnerability scanner that leverages ML with ML-bypass functionalities.
 2. **ZeroTrust Scanner** - API and cloud-specific scanner for Zero-Trust environments.
 3. **Automated Malware Analyzer** - Analyzes malicious code to enhance security protocols.
 4. **Enterprise DNS Dictionary** - Tailored DNS dictionary for subdomain discovery in large-scale environments.
