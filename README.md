@@ -31,6 +31,7 @@
   <img src="https://img.icons8.com/color/48/000000/html.png"/> &nbsp;&nbsp;
   <img src="https://img.icons8.com/color/48/000000/css.png"/> &nbsp;&nbsp;
   <img src="https://img.icons8.com/color/48/000000/javascript.png"/> &nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/48/000000/appsec.png"/> &nbsp;&nbsp;
   <img src="https://img.icons8.com/color/48/000000/sql.png"/> &nbsp;&nbsp;
   <img src="https://img.icons8.com/color/48/000000/linux.png"/> &nbsp;&nbsp;
   <img src="https://img.icons8.com/color/48/000000/kali-linux.png"/> &nbsp;&nbsp;
