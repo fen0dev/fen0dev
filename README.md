@@ -8,9 +8,8 @@
 </p>
 
 ---
-<p align="center">
+
 ![Cybersecurity GIF](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWZzeTczd2JqeTcxaWN6M3pqdmdsMHMxcjNndXcwczhsd2Z4dHlpcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif)
-</p>
 
 <h2 align="center">👨‍💻 Who is <strong>fen0dev</strong>? 👨‍💻</h2>
 
