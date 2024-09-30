@@ -30,7 +30,7 @@
   <img src="https://img.icons8.com/color/48/000000/python.png"/> &nbsp;&nbsp;
   <img src="https://img.icons8.com/color/48/000000/linux.png"/> &nbsp;&nbsp;
   <img src="https://img.icons8.com/color/48/000000/tensorflow.png"/> &nbsp;&nbsp;
-  <img src="https://img.icons8.com/color/48/000000/kalilinux.png"/> &nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/48/000000/ubuntu.png"/> &nbsp;&nbsp;
   <img src="https://img.icons8.com/color/48/000000/terraform.png"/> &nbsp;&nbsp;
 </p>
 
