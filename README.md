@@ -1,5 +1,5 @@
 <h2 align="center">
-  🚀 Software Developer, Cybersecurity Researcher, Hacker 🚀
+  🚀 Software Developer, Cybersecurity Enthusiast, Bug Bounty Researcher & Hacker 🚀
 </h2>
 
 <p align="center">
@@ -11,13 +11,11 @@
 
 ![Cybersecurity GIF](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWZzeTczd2JqeTcxaWN6M3pqdmdsMHMxcjNndXcwczhsd2Z4dHlpcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif)
 
-<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/RbDKaczqWovIugyJmW" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/looneytunesworldofmayhem-world-of-mayhem-looney-tunes-ltwom-RbDKaczqWovIugyJmW">via GIPHY</a></p>
-
 <h2 align="center">👨‍💻 Who is <strong>fen0dev</strong>? 👨‍💻</h2>
 
-- 🔐 **Cybersecurity Researcher**: Passionate about exploring and safeguarding the digital realm.  
-- 🧠 **AI/ML Enthusiast**: I specialize in integrating ML/AI features into existing software across various levels.
-- ⚙️ **Tool Builder**: Creating cutting-edge tools for ethical hacking, vulnerability detection, and advanced threat detection.
+- 🔐 **Bug Bounty Researcher**: Passionate about exploring and safeguarding the digital realm.  
+- 🧠 **Cybersecurity Enthusiast**: I specialize in integrating ML/AI features into existing software across various levels.
+- ⚙️ **Software Developer**: Creating cutting-edge tools for ethical hacking, vulnerability detection, and advanced threat detection.
 - 💡 **Problem Solver**: Crafting solutions to make security more adaptive, intelligent, and robust.
 
 <h2 align="center">⚔️ **My Arsenal** ⚔️</h2>
@@ -37,21 +35,21 @@
 <h2 align="center">🚀 **Cool Tools I've Built & Enhanced** 🚀</h2>
 
 1. **Babylon** - Advanced XSS vulnerability scanner that leverages ML with ML-bypass functionalities.
-2. **ZeroTrust Scanner** - API and cloud-specific scanner for Zero-Trust environments.
-3. **Automated Malware Analyzer** - Analyzes malicious code to enhance security protocols.
-4. **Enterprise DNS Dictionary** - Tailored DNS dictionary for subdomain discovery in large-scale environments.
+2. **ZeroTrust Scanner** - API and cloud-specific scanner for Zero-Trust environments. (In development...)
+3. **Steganography Tools** - Hides malicious code and enhances security protocols.
+4. **Undetectable Malware** - Malicious malware with several obfuscted techniques for static analysis. 
 
 <h2 align="center">📈 **My Vision** 📈</h2>
 I believe the future of cybersecurity is smart, adaptive, and powered by **Artificial Intelligence**. My work focuses on combining the depth of **cybersecurity** with the power of **Machine Learning**, making systems more resilient, proactive, and prepared for tomorrow's challenges.
 
 <h2 align="center">⚡ Let's Collaborate ⚡</h2>
-I'm always looking to work on exciting projects that push the boundaries of **cybersecurity** and **AI**. Got a challenge? Let's solve it together. 
+I'm always looking to work on exciting projects that push the boundaries of **cybersecurity** and **AI**. Got a challenge? Count me in! 
 
 <p align="center">
-  <a href="mailto:your-email@domain.com">
+  <a href="mailto:gius.invest@gmail.com">
     <img src="https://img.shields.io/badge/Email-Me-green?style=for-the-badge&logo=gmail">
   </a>
-  <a href="https://www.linkedin.com/in/fen0dev/">
+  <a href="https://www.linkedin.com/in/g1us3pp3/">
     <img src="https://img.shields.io/badge/Connect-LinkedIn-blue?style=for-the-badge&logo=linkedin">
   </a>
 </p>
