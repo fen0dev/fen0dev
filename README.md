@@ -1,5 +1,5 @@
 <h2 align="center">
-  🚀 Software Developer, Cybersecurity Enthusiast, Bug Bounty Researcher & Hacker 🚀
+  🚀 Software Developer, Cybersecurity Enthusiast, Bug Bounty Hunter & Hacker 🚀
 </h2>
 
 <p align="center">
