@@ -13,7 +13,7 @@
 
 <h2 align="center">👨‍💻 Who is <strong>fen0dev</strong>? 👨‍💻</h2>
 
-- 🔐 **Bug Bounty Researcher**: Passionate about exploring and safeguarding the digital realm.  
+- 🔐 **Bug Bounty Hunter**: Passionate about exploring and safeguarding the digital realm.  
 - 🧠 **Cybersecurity Enthusiast**: I specialize in integrating ML/AI features into existing software across various levels.
 - ⚙️ **Software Developer**: Creating cutting-edge tools for ethical hacking, vulnerability detection, and advanced threat detection.
 - 💡 **Problem Solver**: Crafting solutions to make security more adaptive, intelligent, and robust.
