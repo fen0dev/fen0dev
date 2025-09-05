@@ -15,8 +15,8 @@
 
 - 🔐 **Bug Bounty Hunter**: Passionate about exploring and safeguarding the digital realm.  
 - 🧠 **Cybersecurity Enthusiast**: I specialize in integrating ML/AI features into existing software across various levels.
-- ⚙️ **Software Developer**: Creating cutting-edge tools for ethical hacking, vulnerability detection, and advanced threat detection.
-- 💡 **Problem Solver**: Crafting solutions to make security more adaptive, intelligent, and robust.
+- ⚙️ **Software Developer**: Creating cutting-edge tools for ethical hacking as well as software systems.
+- 💡 **Problem Solver**: Crafting solutions to make both security and coding more adaptive, intelligent, and robust.
 
 <h2 align="center">⚔️ **My Arsenal** ⚔️</h2>
 
