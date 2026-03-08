@@ -33,15 +33,7 @@
   <img src="https://img.icons8.com/color/48/000000/terraform.png"/> &nbsp;&nbsp;
 </p>
 
-<h2 align="center">🚀 **Cool Tools I've Built & Enhanced** 🚀</h2>
-
-1. **Babylon** - Advanced XSS vulnerability scanner that leverages ML with ML-bypass functionalities.
-2. **ZeroTrust Scanner** - API and cloud-specific scanner for Zero-Trust environments. (In development...)
-3. **Steganography Tools** - Hides malicious code and enhances security protocols.
-4. **Undetectable Malware** - Malicious malware with several obfuscted techniques for static analysis. 
-
-<h2 align="center">📈 **My Vision** 📈</h2>
-I believe the future of cybersecurity is smart, adaptive, and powered by **Artificial Intelligence**. My work focuses on combining the depth of **cybersecurity** with the power of **Machine Learning**, making systems more resilient, proactive, and prepared for tomorrow's challenges.
+--
 
 <h2 align="center">⚡ Let's Collaborate ⚡</h2>
 I'm always looking to work on exciting projects that push the boundaries of **cybersecurity** and **AI**. Got a challenge? Count me in! 
